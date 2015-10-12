@@ -2091,7 +2091,7 @@ body:not(.post-template) .post-title {
     background: #7F7F7F;
     }
 
-.disqusbox_typesome {
+.post .disqusbox_typesome {
     margin-top: 20px;
 }
 
